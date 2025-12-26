@@ -1,0 +1,9 @@
+target/
+build/
+.idea/
+.vscode/
+*.log
+# Docker / volume data (DO NOT COMMIT)
+volume-data/
+**/volume-data/
+*.sock
