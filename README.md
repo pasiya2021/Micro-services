@@ -225,7 +225,7 @@ GitHub:
 https://github.com/pasiya2021
 
 LinkedIn:  
-> Add your LinkedIn URL here
+https://www.linkedin.com/in/pasindu-bandara-4b8b68368/
 
 ---
 
