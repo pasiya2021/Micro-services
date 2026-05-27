@@ -17,13 +17,9 @@ This project demonstrates modern backend engineering concepts including:
 
 # 🏗️ System Architecture
 
-> Add your architecture diagram image here
 
-```md
 ![Architecture Diagram](images/architecture-diagram.png)
-```
 
----
 
 # ✨ Features
 
@@ -85,41 +81,27 @@ This project demonstrates modern backend engineering concepts including:
 
 ## 🧾 Order Service
 
-> Add Order Service screenshot
 
-```md
 ![Order Service](images/order-service.png)
-```
 
----
 
 ## 📩 Notification Service
 
-> Add Notification Service screenshot
 
-```md
 ![Notification Service](images/notification-service.png)
-```
 
----
 
 ## 📨 Mailtrap Email Notifications
 
-> Add Mailtrap screenshot
 
-```md
 ![Mailtrap](images/mailtrap.png)
-```
 
----
 
 ## ⚡ Apache Kafka Event Streaming
 
-> Add Kafka screenshot
 
-```md
 ![Kafka](images/kafka.png)
-```
+
 
 ---
 
@@ -153,21 +135,16 @@ Integrated **Prometheus** and **Grafana** for monitoring application health and 
 
 ## 📈 Grafana Dashboard
 
-> Add Grafana dashboard screenshot
 
-```md
 ![Grafana Dashboard](images/grafana-dashboard.png)
-```
 
----
+
 
 ## 📉 Prometheus Metrics
 
-> Add Prometheus screenshot
 
-```md
 ![Prometheus](images/prometheus.png)
-```
+
 
 ---
 
