@@ -18,7 +18,7 @@ This project demonstrates modern backend engineering concepts including:
 # 🏗️ System Architecture
 
 
-![Architecture Diagram](images/architecture-diagram.png)
+![Architecture Diagram](images/architecture-diagram1.png)
 
 
 # ✨ Features
